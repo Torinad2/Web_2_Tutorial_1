@@ -37,7 +37,7 @@ body {
 nav {
 	width: 25%;
 	float: left;
-	margin: 6% 2% 0% 0%;
+	margin: 6% 2% 0 0;
 }
 article {
 	width: 73%;
@@ -87,7 +87,7 @@ cite {
 header img {
 	float: none;
 	width: 96%;
-	margin: 2% 2% 0% 2%;
+	margin: 2% 2% 0 2%;
 }
 body p, body address {
 	margin: 3.5% 1%;
@@ -170,11 +170,11 @@ body article h1 {
 article {
 	width: 94%;
 	float: none;
-	margin: 0px auto;
+	margin: 0 auto;
 }
 dl#ct_locations {
 	width: 57%;
-	margin: 0px 0px 0px 20px;
+	margin: 0 0 0 20px;
 }
 dl {
 	width: 90%;
@@ -184,7 +184,7 @@ dl {
 article img {
 	float: right;
 	width: 40%;
-	margin: 0% 2% 2% 2%;
+	margin: 0 2% 2% 2%;
 }
 nav ul li {
 	display: table-cell;
@@ -208,7 +208,7 @@ nav ul {
 	margin: 0;
 }
 nav ul li:last-of-type {
-	margin-right: 0%;
+	margin-right: 0;
 }
 
 blockquote {
@@ -226,7 +226,7 @@ blockquote p:first-of-type:before {
   content: open-quote;
   font-size: 4em;
   line-height: 0.1em;
-  margin: 0.2em 0.1em 0em 0.25em;
+  margin: 0.2em 0.1em 0 0.25em;
   vertical-align: -0.4em;
   float: left;
 }
@@ -252,20 +252,20 @@ html, body {
 
 html {
 	background-color: rgba(176,124,48,1.00);
-	margin: 0px auto;
+	margin: 0 auto;
 }
 body {
 	width: 88.2%;
 	max-width: 900px;
 	padding-left: 0.9%;
 	padding-right: 0.9%;
-	margin: 0px auto auto auto;
+	margin: 0 auto auto auto;
 	clear: none;
 	float: none;
 	background-color: white;
-	-moz-box-shadow: rgba(31, 61, 31, 0.9) 20px 0px 25px,  rgba(31, 61, 31, 0.9) -20px 0px 25px;
-	-webkit-box-shadow: rgba(31, 61, 31, 0.9) 20px 0px 25px,  rgba(31, 61, 31, 0.9) -20px 0px 25px;
-	box-shadow: rgba(31, 61, 31, 0.9) 20px 0px 25px,  rgba(31, 61, 31, 0.9) -20px 0px 25px;
+	-moz-box-shadow: rgba(31, 61, 31, 0.9) 20px 0 25px,  rgba(31, 61, 31, 0.9) -20px 0 25px;
+	-webkit-box-shadow: rgba(31, 61, 31, 0.9) 20px 0 25px,  rgba(31, 61, 31, 0.9) -20px 0 25px;
+	box-shadow: rgba(31, 61, 31, 0.9) 20px 0 25px,  rgba(31, 61, 31, 0.9) -20px 0 25px;
 }
 
 
