@@ -94,7 +94,7 @@ nav a {
 	float: left;
 	clear: none;
 	overflow: visible;
-	margin-bottom: 0px;
+	margin-bottom: 0;
 }
 nav a img {
  width: 100%;
@@ -119,7 +119,7 @@ footer {
 @media only screen and (min-width: 769px) {
 html {
 	background-color: rgba(176,124,48,1.00);
-	margin: 0px auto;
+	margin: 0 auto;
 }
 body {
 	width: 88.2%;
@@ -129,11 +129,10 @@ body {
 	margin: auto;
 	clear: none;
 	float: none;
-	margin-left: auto;
 	background-color: white;
-	-moz-box-shadow: rgba(31, 61, 31, 0.9) 20px 0px 25px,  rgba(31, 61, 31, 0.9) -20px 0px 25px;
-	-webkit-box-shadow: rgba(31, 61, 31, 0.9) 20px 0px 25px,  rgba(31, 61, 31, 0.9) -20px 0px 25px;
-	box-shadow: rgba(31, 61, 31, 0.9) 20px 0px 25px,  rgba(31, 61, 31, 0.9) -20px 0px 25px
+	-moz-box-shadow: rgba(31, 61, 31, 0.9) 20px 0 25px,  rgba(31, 61, 31, 0.9) -20px 0 25px;
+	-webkit-box-shadow: rgba(31, 61, 31, 0.9) 20px 0 25px,  rgba(31, 61, 31, 0.9) -20px 0 25px;
+	box-shadow: rgba(31, 61, 31, 0.9) 20px 0 25px,  rgba(31, 61, 31, 0.9) -20px 0 25px
 }
 footer {
 	font-size: 1.2em;
